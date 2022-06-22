@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sebastian Plott		sebastian.plott@eccenca.com
 
 # THANKS
 
