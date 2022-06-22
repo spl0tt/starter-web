@@ -25,4 +25,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
-eccena copyright
+eccena copyright. All rights reserved.
