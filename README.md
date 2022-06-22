@@ -18,6 +18,10 @@ this change will first just be in the add section
 
 this change will first just be in the working section
 
+## How To Contribute
+
+Please fork this repository and then issue Pull Request for review.
+
 ### Copyright
 
 eccena copyright
